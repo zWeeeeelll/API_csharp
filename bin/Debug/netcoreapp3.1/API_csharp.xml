@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>API_csharp</name>
+    </assembly>
+    <members>
+        <member name="M:API_csharp.Controllers.CursoController.Post(API_csharp.Models.Curso.CursoViewModelInput)">
+            <summary>
+            Este serviço permite autenticar um usário cadastrado e ativo.
+            </summary>
+            <param name="loginViewModelInput"></param>
+            <returns>Retornna status ok, dados do usuario e o token em caso</returns>
+        </member>
+        <member name="M:API_csharp.Controllers.CursoController.Get">
+            <summary>
+            Este serviço permite autenticar um usário cadastrado e ativo.
+            </summary>
+            <param name="loginViewModelInput"></param>
+            <returns>Retornna status ok, dados do usuario e o token em caso</returns>
+        </member>
+        <member name="M:API_csharp.Controllers.UsuarioController.Logar(API_csharp.Models.Usuarios.LoginViewModelInput)">
+            <summary>
+            Este serviço permite autenticar um usário cadastrado e ativo.
+            </summary>
+            <param name="loginViewModelInput"></param>
+            <returns>Retornna status ok, dados do usuario e o token em caso</returns>
+        </member>
+    </members>
+</doc>
