@@ -6,11 +6,15 @@ using System.Security.Claims;
 using System.Text;
 using System.Threading.Tasks;
 using API_csharp.Filters;
+using API_csharp.Infraestruture.Data;
 using API_csharp.Models;
 using API_csharp.Models.Usuarios;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
+using System.Data.SqlClient;
+using System.Data;
 using Swashbuckle.AspNetCore.Annotations;
 
 namespace API_csharp.Controllers
@@ -69,6 +73,9 @@ namespace API_csharp.Controllers
         [Route("registrar")]
         public IActionResult Registrar(RegistrarViewModelInput registrarViewModelInput)
         {
+            var options = new DbContextOptionsBuilder<CursoDbContext>();
+            options.UseSqlServer("");
+            CursoDbContext contexto = new CursoDbContext(options);
             return Created("", registrarViewModelInput);
         }
     }

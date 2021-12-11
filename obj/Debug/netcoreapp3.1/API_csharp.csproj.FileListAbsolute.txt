@@ -105,3 +105,12 @@
 /Users/isaacmoura/Projects/API_csharp/API_csharp/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 /Users/isaacmoura/Projects/API_csharp/API_csharp/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
 /Users/isaacmoura/Projects/API_csharp/API_csharp/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+/Users/isaacmoura/Documents/CSharp/Projects/API_csharp/API_csharp/obj/Debug/netcoreapp3.1/API_csharp.csproj.AssemblyReference.cache
+/Users/isaacmoura/Documents/CSharp/Projects/API_csharp/API_csharp/obj/Debug/netcoreapp3.1/API_csharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/isaacmoura/Documents/CSharp/Projects/API_csharp/API_csharp/obj/Debug/netcoreapp3.1/API_csharp.AssemblyInfoInputs.cache
+/Users/isaacmoura/Documents/CSharp/Projects/API_csharp/API_csharp/obj/Debug/netcoreapp3.1/API_csharp.AssemblyInfo.cs
+/Users/isaacmoura/Documents/CSharp/Projects/API_csharp/API_csharp/obj/Debug/netcoreapp3.1/API_csharp.csproj.CoreCompileInputs.cache
+/Users/isaacmoura/Documents/CSharp/Projects/API_csharp/API_csharp/obj/Debug/netcoreapp3.1/API_csharp.MvcApplicationPartsAssemblyInfo.cs
+/Users/isaacmoura/Documents/CSharp/Projects/API_csharp/API_csharp/obj/Debug/netcoreapp3.1/API_csharp.MvcApplicationPartsAssemblyInfo.cache
+/Users/isaacmoura/Documents/CSharp/Projects/API_csharp/API_csharp/obj/Debug/netcoreapp3.1/API_csharp.dll
+/Users/isaacmoura/Documents/CSharp/Projects/API_csharp/API_csharp/obj/Debug/netcoreapp3.1/API_csharp.pdb
